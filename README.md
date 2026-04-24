@@ -1,15 +1,13 @@
 # sales-data-analysis
 
-This repository contains multiple academic code files for practice and learning.
+## Description
+This is a data analysis mini project using Python, CSV data and basic analytics.
 
-## Files Included
+## Files
 - main.py
-- program_1.py
-- program_2.py
-- program_3.py
-- notes.md
+- data.csv
+- analysis.py
+- requirements.txt
 
 ## How to Run
-Use Python:
-
 python main.py
